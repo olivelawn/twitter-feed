@@ -1,4 +1,5 @@
 #Use OpenJDK base docker image from dockerhub and open the application port on the docker container
+#Adding a comment to prove the build works
 box:
   id: openjdk
   ports:
